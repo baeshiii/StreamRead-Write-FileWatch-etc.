@@ -1,0 +1,7 @@
+C:\Users\202114935\source\repos\Ex4Compressor\Ex4Compressor\bin\Debug\Ex4Compressor.exe.config
+C:\Users\202114935\source\repos\Ex4Compressor\Ex4Compressor\bin\Debug\Ex4Compressor.exe
+C:\Users\202114935\source\repos\Ex4Compressor\Ex4Compressor\bin\Debug\Ex4Compressor.pdb
+C:\Users\202114935\source\repos\Ex4Compressor\Ex4Compressor\obj\Debug\Ex4Compressor.csprojAssemblyReference.cache
+C:\Users\202114935\source\repos\Ex4Compressor\Ex4Compressor\obj\Debug\Ex4Compressor.csproj.CoreCompileInputs.cache
+C:\Users\202114935\source\repos\Ex4Compressor\Ex4Compressor\obj\Debug\Ex4Compressor.exe
+C:\Users\202114935\source\repos\Ex4Compressor\Ex4Compressor\obj\Debug\Ex4Compressor.pdb
