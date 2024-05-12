@@ -1,0 +1,7 @@
+C:\Users\202114935\source\repos\Ex1StreamRead\Ex1StreamRead\bin\Debug\Ex1StreamRead.exe.config
+C:\Users\202114935\source\repos\Ex1StreamRead\Ex1StreamRead\bin\Debug\Ex1StreamRead.exe
+C:\Users\202114935\source\repos\Ex1StreamRead\Ex1StreamRead\bin\Debug\Ex1StreamRead.pdb
+C:\Users\202114935\source\repos\Ex1StreamRead\Ex1StreamRead\obj\Debug\Ex1StreamRead.csprojAssemblyReference.cache
+C:\Users\202114935\source\repos\Ex1StreamRead\Ex1StreamRead\obj\Debug\Ex1StreamRead.csproj.CoreCompileInputs.cache
+C:\Users\202114935\source\repos\Ex1StreamRead\Ex1StreamRead\obj\Debug\Ex1StreamRead.exe
+C:\Users\202114935\source\repos\Ex1StreamRead\Ex1StreamRead\obj\Debug\Ex1StreamRead.pdb

@@ -1,0 +1,7 @@
+C:\Users\202114935\source\repos\Ex2StreamWrite\Ex2StreamWrite\bin\Debug\Ex2StreamWrite.exe.config
+C:\Users\202114935\source\repos\Ex2StreamWrite\Ex2StreamWrite\bin\Debug\Ex2StreamWrite.exe
+C:\Users\202114935\source\repos\Ex2StreamWrite\Ex2StreamWrite\bin\Debug\Ex2StreamWrite.pdb
+C:\Users\202114935\source\repos\Ex2StreamWrite\Ex2StreamWrite\obj\Debug\Ex2StreamWrite.csprojAssemblyReference.cache
+C:\Users\202114935\source\repos\Ex2StreamWrite\Ex2StreamWrite\obj\Debug\Ex2StreamWrite.csproj.CoreCompileInputs.cache
+C:\Users\202114935\source\repos\Ex2StreamWrite\Ex2StreamWrite\obj\Debug\Ex2StreamWrite.exe
+C:\Users\202114935\source\repos\Ex2StreamWrite\Ex2StreamWrite\obj\Debug\Ex2StreamWrite.pdb

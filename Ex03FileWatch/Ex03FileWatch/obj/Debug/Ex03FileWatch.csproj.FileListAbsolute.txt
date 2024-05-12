@@ -1,0 +1,14 @@
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\bin\Debug\Ex03FileWatch.exe.config
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\bin\Debug\Ex03FileWatch.exe
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\bin\Debug\Ex03FileWatch.pdb
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\Ex03FileWatch.csprojAssemblyReference.cache
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\MainWindow.baml
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\MainWindow.g.cs
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\App.g.cs
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\Ex03FileWatch_MarkupCompile.cache
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\Ex03FileWatch.g.resources
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\Ex03FileWatch.Properties.Resources.resources
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\Ex03FileWatch.csproj.GenerateResource.cache
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\Ex03FileWatch.csproj.CoreCompileInputs.cache
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\Ex03FileWatch.exe
+C:\Users\202114935\source\repos\Ex03FileWatch\Ex03FileWatch\obj\Debug\Ex03FileWatch.pdb
